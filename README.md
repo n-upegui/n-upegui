@@ -6,6 +6,8 @@ Soy Ingeniero Industrial, cursando actualmente Especialización en Analítica y 
 
 #### Programación para Ciencia de Datos:
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+[![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=101010)]()
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=101010)]()
 
 #### Programación sobre Grandes Volúmenes de Datos:
 [![Oracle_Database](https://img.shields.io/badge/Oracle_Database-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=101010)]()
@@ -27,7 +29,8 @@ Soy Ingeniero Industrial, cursando actualmente Especialización en Analítica y 
 ## Puedes encontrarme en:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nelson_Ramirez_Upegui-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/nelson-fabi%C3%A1n-ram%C3%ADrez-upegui-007799125/)
 
-
+## Puedes contactarme:
+[![Gmail](https://img.shields.io/badge/Gmail-nelson.ramirez1@udea.edu.co-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](href="mailto:nelson.ramirez1@udea.edu.co")
 
 
 <!--
