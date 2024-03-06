@@ -2,23 +2,27 @@
 
 Soy Ingeniero Industrial, cursando actualmente Especialización en Analítica y Ciencia de Datos; con experiencia alineada a la gestión de procesos dentro de los Sistemas de Gestión; el análisis de datos; el seguimiento, medición, análisis y evaluación de KPIs; la manipulación sobre grandes volúmenes de datos; conocimiento en streaming y servicios en la nube; así como procesos de visualización para el análisis y evaluación de información y resultados. Enfocado en el constante desarrollo de conocimiento relacionado con la Ciencia de Datos.
 
-## Software utilizado:
+## Conocimiento en:
 
 #### Programación para Ciencia de Datos:
-[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 
 #### Programación sobre Grandes Volúmenes de Datos:
+[![Oracle_SQL](https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![Apache_Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white&labelColor=101010)]()
+[![SQL_Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=101010)]()
+
 <!-- Falta SQL Server, Apache Spark -->
 
 #### Data Streaming y Servicios en la Nube:
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
 [![Google_Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=101010)]()
-<!-- Falta Azure -->
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
+[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=101010)]()
 
 #### Visualización de Datos:
-[![Tableau](https://img.shields.io/badge/tableau-6327D8?style=for-the-badge&logo=tableau&logoColor=white&labelColor=101010)]()
-<!-- Falta power BI -->
+[![Power_Bi](https://img.shields.io/badge/Power_Bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=101010)]()
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white&labelColor=101010)]()
 
 ## Puedes encontrarme en:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nelson_Ramirez_Upegui-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/nelson-fabi%C3%A1n-ram%C3%ADrez-upegui-007799125/)
