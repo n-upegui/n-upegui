@@ -1,12 +1,15 @@
-### Hi there 👋
+# Hola mi nombre es Nelson 👋
+
+### Soy Ingeniero Industrial, Estudiante de Especialización en Analítica y Ciencia de Datos.
+
 
 <!--
 **n-upegui/n-upegui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 Trabajo actualmente con Sistemas Integrados de Gestión, enfocado en el seguimiento, medición análisis y evaluación de KPIs, así como la generación de modelos descriptivos y predictivos para diferentes sectores. 
+- 🌱 Actualmente me encuentro realizando una Especialización en Analítica y Ciencia de Datos y reforzando mi conocimiento en SQL, SSAS, SSIS, Power BI, PySpark
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
