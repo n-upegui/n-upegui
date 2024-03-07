@@ -29,8 +29,15 @@ Soy Ingeniero Industrial, cursando actualmente Especialización en Analítica y 
 ## Puedes encontrarme en:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nelson_Ramirez_Upegui-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/nelson-fabi%C3%A1n-ram%C3%ADrez-upegui-007799125/)
 
-## Puedes contactarme:
-[![Gmail](https://img.shields.io/badge/Gmail-nelson.ramirez1@udea.edu.co-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](href="mailto:nelson.ramirez1@udea.edu.co") <!-- Organizar el mailto: -->
+## Puedes contactarme por los siguientes medios:
+[![Gmail](https://img.shields.io/badge/Gmail-nelson.ramirez1@udea.edu.co-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:nelson.ramirez1@udea.edu.co)
+</br>
+[![Gmail](https://img.shields.io/badge/Gmail-nframirezu@unal.edu.co-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:nframirezu@unal.edu.co)
+</br>
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=101010)](https://wa.me/573188397735)
+
+
+<!-- Organizar el mailto: -->
 
 
 <!--
