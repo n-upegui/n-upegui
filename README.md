@@ -1,6 +1,6 @@
 # Hola mi nombre es Nelson 👋
 
-Soy Ingeniero Industrial, cursando actualmente Especialización en Analítica y Ciencia de Datos; con experiencia alineada a la gestión de procesos dentro de los Sistemas de Gestión; el análisis de datos; el seguimiento, medición, análisis y evaluación de KPIs; la manipulación sobre grandes volúmenes de datos; conocimiento en streaming y servicios en la nube; así como procesos de visualización para el análisis y evaluación de información y resultados. Enfocado en el constante desarrollo de conocimiento relacionado con la Ciencia de Datos.
+Soy Ingeniero Industrial, cursando actualmente Especialización en Analítica y Ciencia de Datos; con experiencia alineada a la gestión de procesos dentro de los Sistemas de Gestión (ISO 9001, 45001, 14001); el análisis de datos; el seguimiento, medición, análisis y evaluación de KPIs; la manipulación sobre grandes volúmenes de datos; conocimiento en streaming y servicios en la nube; así como procesos de visualización para el análisis y evaluación de la información y sus resultados. Enfocado en el constante desarrollo de conocimiento relacionado con la Ciencia de Datos.
 
 ## Conocimiento en:
 
