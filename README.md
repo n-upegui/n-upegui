@@ -8,7 +8,7 @@ Soy Ingeniero Industrial, cursando actualmente Especialización en Analítica y 
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=101010)]()
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=101010)]()
-[![Scikit-Learn](https://img.shields.io/badge/Scikit-Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=101010)]()
+[![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=101010)]()
 [![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white&labelColor=101010)]()
 
 
